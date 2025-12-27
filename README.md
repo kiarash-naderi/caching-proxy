@@ -1,4 +1,3 @@
-```markdown
 # Caching Proxy Server
 
 A lightweight **caching reverse proxy** built with Go and Gin.
